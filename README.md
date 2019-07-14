@@ -25,3 +25,10 @@ QT_QUICK_CONTROLS_FALLBACK_STYLE=Fusion
 ```
 
 environment variables defined.
+
+
+## Installation
+
+To install, copy or symlink content of
+`styles/org/kde/kirigami.2/styles` into `styles` folder of your
+Kirigami installation.
